@@ -1,0 +1,14 @@
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\bin\Debug\net8.0\SecondTestProject.exe
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\bin\Debug\net8.0\SecondTestProject.deps.json
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\bin\Debug\net8.0\SecondTestProject.runtimeconfig.json
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\bin\Debug\net8.0\SecondTestProject.dll
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\bin\Debug\net8.0\SecondTestProject.pdb
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\SecondTestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\SecondTestProject.AssemblyInfoInputs.cache
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\SecondTestProject.AssemblyInfo.cs
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\SecondTestProject.csproj.CoreCompileInputs.cache
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\SecondTestProject.dll
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\refint\SecondTestProject.dll
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\SecondTestProject.pdb
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\SecondTestProject.genruntimeconfig.cache
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\ref\SecondTestProject.dll
