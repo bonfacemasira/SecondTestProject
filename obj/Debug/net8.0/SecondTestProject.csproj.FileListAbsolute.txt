@@ -12,3 +12,4 @@ C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debu
 C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\SecondTestProject.pdb
 C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\SecondTestProject.genruntimeconfig.cache
 C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\ref\SecondTestProject.dll
+C:\Users\boniface.masira\Desktop\learn\CSharpProjects\SecondTestProject\obj\Debug\net8.0\SecondTestProject.sourcelink.json
